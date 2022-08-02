@@ -6,5 +6,5 @@
   + Docker and Kubernetes...
 - I have to try Django as well...
 
-<-- - ⚡ Fun fact: -->
+<!-- - ⚡ Fun fact: --!>
 
